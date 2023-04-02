@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "coursename": "Java Full Stack",
+      "authorname": "Shanker ",
+      "id": 1
+    },
+    {
+      "coursename": "React js",
+      "authorname": "Rahul",
+      "id": 2
+    }
+  ]
+}

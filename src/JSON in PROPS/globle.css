@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(189, 49, 154);
+  border: 20px solid black;
+}
+.main div{
+ display: flex;
+ margin-top: 20px;
+}
+.row{
+  display: flex;
+  justify-content: space-evenly;
+  display: flex;
+
+}
+.box{
+  border: 8px solid rgb(0, 0, 0);
+  width: 400px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+img{
+width: 200px;
+height: 200px;
+border: 10px solid rgb(8, 0, 110);
+}

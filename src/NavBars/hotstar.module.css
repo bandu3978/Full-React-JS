@@ -1,0 +1,59 @@
+.main{
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  height: 75px;
+  align-items: center;
+  background-color: rgb(20, 20, 79);
+  color: white;
+  padding-left:2px ;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.logo img{
+  height: 75px;
+  width: 200px;
+}
+
+
+.logo ul{
+ display: flex;
+ list-style: none;
+}
+.logo ul li{
+  justify-content: space-evenly;
+  width: 80px;
+}
+.logo ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+.menu{
+  padding-left: 180px;
+}
+.menu ul{
+display: flex;
+list-style: none;
+}
+.menu ul li{
+  justify-content: space-evenly;
+  width: 200px;
+  
+}
+input,button{
+  border-radius: 8px;
+  height: 30px;
+}
+
+.sub{
+  padding-left:10px;
+  border-radius: 8px;
+  height: 30px;
+  color: black;
+  background-color: yellow;
+}
+

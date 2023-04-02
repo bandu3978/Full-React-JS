@@ -1,0 +1,173 @@
+[
+  {
+    "studentimage":"https://www.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg"
+    ,
+    "StudentName":"Amit",
+    "StudentEmail":"amit1234@gmail.com",
+    "Mobilenumber":"99037576651" ,
+    "place": "Uttarkannada" 
+  },
+  {
+    "studentimage":"https://alis.alberta.ca/media/699167/university-student-studying-library-istock-871203840.jpg"
+    ,
+    "StudentName":"Bandappa",
+    "StudentEmail":"bandu3978@gmail.com",
+    "Mobilenumber":"9902348122",
+    "place": "Vijaypur" 
+  },
+  { "studentimage":"https://www.fastweb.com/uploads/article_photo/photo/2036641/crop635w_10-ways-to-be-a-better-student.jpeg"
+  ,
+    "StudentName":"viki",
+    "StudentEmail":"viki2344@gmail.com",
+    "Mobilenumber":"98766866573" ,
+    "place": "Bihar" 
+  },
+  {  "studentimage":"https://d2jyir0m79gs60.cloudfront.net/news/images/successful-college-student-lg.png"
+  ,
+    "StudentName":"Basavaraj",
+    "StudentEmail":"basu344@gmail.com",
+    "Mobilenumber":"9876687454" ,
+    "place": "Belagam" 
+  },
+  {
+    "studentimage":"https://img.freepik.com/free-photo/young-attractive-smiling-student-showing-thumb-up-outdoors-campus-university_8353-6394.jpg?w=2000"
+    ,
+    "StudentName":"Ramu",
+    "StudentEmail":"ramu8772344@gmail.com",
+    "Mobilenumber":"88766866575" ,
+    "place": "Bihar" 
+  },
+  {
+    "studentimage":"https://www.socialsciencespace.com/wp-content/uploads/student-3500990_960_720_opt.jpg"
+    ,
+    "StudentName":"Raghu",
+    "StudentEmail":"raghu44@gmail.com",
+    "Mobilenumber":"54666866576" ,
+    "place": "Bnagalore" 
+  },
+  {
+    "studentimage":"https://i2.wp.com/rollercoasteryears.com/wp-content/uploads/Thrive-During-Finals-.jpg?fit=1000%2C667&ssl=1"
+    ,
+    "StudentName":"Gangu",
+    "StudentEmail":"gangu664@gmail.com",
+    "Mobilenumber":"8849865787" ,
+    "place": "tumakur" 
+  },
+  {
+    "studentimage":"https://assets.citynavigator.nl/thumb/p3tsSJLLYpsERDYz8kA1puN81iy5OB_1v71l2zLtD-c/resizing_type:fit/width:960/height:0/gravity:sm/enlarge:0/aHR0cHM6Ly9hc3NldHMuY2l0eW5hdmlnYXRvci5ubC9rdW1hLWl0Yy91cGxvYWRzL21lZGlhLzYxNmVjOWNjZGJjNjAvc2h1dHRlcnN0b2NrLWdlc3BpZWdlbGQuanBn.jpg"
+    ,
+    "StudentName":"vinay",
+    "StudentEmail":"vinay344@gmail.com",
+    "Mobilenumber":"998766866578" ,
+    "place": "London" 
+  },
+  {
+    "studentimage":"https://www.thebalancemoney.com/thmb/Ci8l5i-cl3_emjyarN7RVunlULo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/enjoying-his-studies-484286872-735782e8d2144f7496bf9b947bcc1a56.jpg"
+    ,
+    "StudentName":"Nagu",
+    "StudentEmail":"nagu467635@gmail.com",
+    "Mobilenumber":"974565866579" ,
+    "place": "USA" 
+  }
+  ,
+  {
+    "studentimage":"https://media.istockphoto.com/id/1310896133/photo/happy-smiling-afro-businessman-using-laptop-at-the-desk-in-office.jpg?s=612x612&w=0&k=20&c=QUQpwqaaPswBIJB6_lk5xU6HY_RevWNSwcqAErPZsOc="
+    ,
+    "StudentName":"Manju",
+    "StudentEmail":"manju94564@gmail.com",
+    "Mobilenumber":"9987677775710" ,
+    "place": "UK" 
+  },
+  {
+    "studentimage":"https://www.thoughtco.com/thmb/V-FbvAWybmcx5xDJir0i4x9Qhto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157522427-5c8d8df046e0fb000187a2d9.jpg"
+    ,
+    "StudentName":"Sanju",
+    "StudentEmail":"sanju44@gmail.com",
+    "Mobilenumber":"9985465711" ,
+    "place": "Bagalakot" 
+  },
+  {
+    "studentimage":"https://forrit-one-msedu-p1-consumables.azureedge.net/media/30cd7de8-a992-4208-a289-18b445e93405/StudentsOverview-1920_1040x585.jpg"
+    ,
+    "StudentName":"viny",
+    "StudentEmail":"viny344@gmail.com",
+    "Mobilenumber":"99533566512" ,
+    "place": "Kalaburgi" 
+  },
+  {
+    "studentimage":"https://www.psychologicalscience.org/redesign/wp-content/uploads/2016/10/students-e1477942832896-609x419.jpg"
+    ,
+    "StudentName":"Lalu",
+    "StudentEmail":"laly4@gmail.com",
+    "Mobilenumber":"99876999513" ,
+    "place": "Afrika" 
+  },
+  {
+    "studentimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4q2p7lLCb97FBU3JB1mma1w_nZJgAGuwdxw&usqp=CAU"
+    ,
+    "StudentName":"manu",
+    "StudentEmail":"manu344@gmail.com",
+    "Mobilenumber":"998766866514" ,
+    "place": "Ballari" 
+  },
+  {
+    "studentimage":"https://www.ellucian.com/sites/default/files/styles/max_width_2400/public/uploads/images/2022/04/social-image-student-information-systems.jpg"
+    ,
+    "StudentName":"Nagu",
+    "StudentEmail":"nagya4@gmail.com",
+    "Mobilenumber":"9987666515" ,
+    "place": "Sudarpur" 
+  },
+  {
+    "studentimage":"https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/08/international.jpeg-1.jpg"
+    ,
+    "StudentName":"iranna",
+    "StudentEmail":"irana66344@gmail.com",
+    "Mobilenumber":"9987566516" ,
+    "place": "Dubai" 
+  },
+  {
+    "studentimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj6DaaDeJS2t3axtESFKmDxq_IgbVFCwpzg&usqp=CAU"
+    ,
+    "StudentName":"Shiva",
+    "StudentEmail":"shiva3348@gmail.com",
+    "Mobilenumber":"998733617" ,
+    "place": "Kailas" 
+  },
+  {
+    "studentimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAa-FmwpNVZsEZZ8z9YqzY32QOQB09yCisA&usqp=CAU"
+    ,
+    "StudentName":"Ganesh",
+    "StudentEmail":"gannu344@gmail.com",
+    "Mobilenumber":"9776866618" ,
+    "place": "Rameshwara" 
+  },
+  {
+    "studentimage":"https://www.fastweb.com/uploads/article_photo/photo/2036641/crop635w_10-ways-to-be-a-better-student.jpeg"
+    ,
+    "StudentName":"suhas",
+    "StudentEmail":"suhas9752@gmail.com",
+    "Mobilenumber":"9998456519" ,
+    "place": "Mysore" 
+  },
+  {
+    "studentimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQru1atBJ7X5wTkKiD-kQXNVHiWCPOo1anNqQ&usqp=CAU"
+    ,
+    "StudentName":"Ameer",
+    "StudentEmail":"ameer77556@gmail.com",
+    "Mobilenumber":"988876757520" ,
+    "place": "Umarani" 
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+]

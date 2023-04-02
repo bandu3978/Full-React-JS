@@ -1,0 +1,16 @@
+.main{
+  border: 2px solid black;
+  height: 75px;
+  background-color: rgb(82, 82, 169);
+  color: white;
+  padding-left:2px ;
+  align-items: center;
+}
+.main ul{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  justify-content:space-around;
+}

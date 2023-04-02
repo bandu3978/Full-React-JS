@@ -1,0 +1,31 @@
+.main{  
+    border: 8px solid rgb(2, 44, 11);
+    height: 150px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.r1 h1{
+  border: 2px solid;
+  width: 80px;
+  padding-left: 60px;
+  background-color: black;
+  color: white;
+}
+.r2 button{
+  margin: 10px;
+  border: 2px solid;
+  border-radius: 20px;
+}
+.b1{
+  background-color: green;
+}
+.b2{
+
+}
+.b3{
+  background-color: red;
+}

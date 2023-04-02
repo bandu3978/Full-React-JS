@@ -1,0 +1,42 @@
+[
+  {
+    "StudentName":"Amit",
+    "StudentId" : 123 ,
+    "Course":"JAVA",
+    "Place":"UTTARKANNADA",
+    "Mobile":[9567567536,975235463,6576547575],
+    "photo":"https://alis.alberta.ca/media/699167/university-student-studying-library-istock-871203840.jpg"
+  },
+  {
+    "StudentName":"Viki",
+    "StudentId" : 143 ,
+    "Course":"HTML",
+    "Place":"BIHAR",
+    "Mobile":[8769879765,56756758687,7576576577],
+    "photo":"https://www.fastweb.com/uploads/article_photo/photo/2036641/crop635w_10-ways-to-be-a-better-student.jpeg"
+  },
+  {
+    "StudentName":"Basavaraj",
+    "StudentId" : 420 ,
+    "Course":"CSS",
+    "Place":"BELAGUM",
+    "Mobile":[55414755134,67687453832,3776536546],
+    "photo":"https://d2jyir0m79gs60.cloudfront.net/news/images/successful-college-student-lg.png"
+  },
+  {
+    "StudentName":"Harish",
+    "StudentId" : 655 ,
+    "Course":"React JS",
+    "Place":"BANGALORE",
+    "Mobile":[9926753572,8997561565,9895234743],
+    "photo":"https://www.socialsciencespace.com/wp-content/uploads/student-3500990_960_720_opt.jpg"
+  },
+  {
+    "StudentName":"Bandappa",
+    "StudentId" : 8055  ,
+    "Course":"JAVA SCRIPT",
+    "Place":"BIJAPUR",
+    "Mobile":[9655464641,8955464123,78643646452],
+    "photo":"https://media.istockphoto.com/id/1310896133/photo/happy-smiling-afro-businessman-using-laptop-at-the-desk-in-office.jpg?s=612x612&w=0&k=20&c=QUQpwqaaPswBIJB6_lk5xU6HY_RevWNSwcqAErPZsOc="
+  }
+]
